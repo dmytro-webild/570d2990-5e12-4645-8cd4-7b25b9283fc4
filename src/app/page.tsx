@@ -62,7 +62,7 @@ export default function LandingPage() {
           href: "#features",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/man-looking-futuristic-weather-interface_23-2151968694.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/man-looking-futuristic-weather-interface_23-2151968694.jpg?_wi=1"
     />
   </div>
 
@@ -212,7 +212,7 @@ export default function LandingPage() {
       title="Common Questions"
       description="How GenEco Travel works for the modern traveler."
       faqsAnimation="slide-up"
-      imageSrc="http://img.b2bpic.net/free-photo/man-looking-futuristic-weather-interface_23-2151968694.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/man-looking-futuristic-weather-interface_23-2151968694.jpg?_wi=2"
       mediaAnimation="slide-up"
     />
   </div>
